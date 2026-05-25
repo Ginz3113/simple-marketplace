@@ -1,0 +1,39 @@
+body{
+font-family:sans-serif;
+background:#f5f5f5;
+padding:20px;
+}
+
+.login,.admin-panel{
+background:white;
+padding:20px;
+border-radius:20px;
+max-width:500px;
+margin:auto;
+}
+
+input{
+width:100%;
+padding:12px;
+margin:10px 0;
+border-radius:10px;
+border:1px solid #ddd;
+}
+
+button{
+border:none;
+padding:12px;
+border-radius:10px;
+cursor:pointer;
+background:#dbeafe;
+margin-top:10px;
+}
+
+.back-home{
+  margin-bottom:20px;
+  background:#e0f2fe;
+}
+
+.admin-panel{
+  box-shadow:0 10px 30px rgba(0,0,0,0.05);
+}

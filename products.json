@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Headphone",
+    "price": 250000,
+    "image": "https://picsum.photos/300?1",
+    "description": "Headphone wireless premium"
+  },
+  {
+    "id": 1779597828655,
+    "name": "sasa",
+    "price": "1000",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonbqzevSe_eW1KV1dC3EapfLwmjMOYjNLb4THQ4EfRJyVL7mYRhGNej9o0sF6yOSqM2u4HGh9nXeM3TmN8bPGWBTScerq-Q4mNf42fA&s=10",
+    "description": "tokyo banana"
+  },
+  {
+    "id": 1779599167679,
+    "name": "fd",
+    "price": "334444",
+    "image": "https://www.j-grab.com/cdn/shop/files/Tokyo_Banana_Soft_Custard_Pudding_Sweets_8_packs_-_Made_in_Japan-1_1024x.jpg?v=1766555750",
+    "description": "ffsf"
+  }
+]

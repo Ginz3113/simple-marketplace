@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Admin</title>
+<link rel="stylesheet" href="admin.css">
+</head>
+<body>
+
+<div class="login" id="loginPage">
+<h2>Admin Login</h2>
+
+<input type="password" id="password" placeholder="Password">
+
+<button onclick="login()">Login</button>
+</div>
+
+<div class="admin-panel" id="adminPanel" style="display:none;">
+    <a href="index.html">
+  <button class="back-home">
+    ← Kembali ke Home
+  </button>
+</a>
+<h1>Admin Produk</h1>
+
+<input type="text" id="name" placeholder="Nama Produk">
+<input type="number" id="price" placeholder="Harga">
+<input type="text" id="image" placeholder="URL Gambar">
+<input type="text" id="description" placeholder="Deskripsi">
+
+<button onclick="addProduct()">Tambah Produk</button>
+
+<div id="adminProducts"></div>
+</div>
+
+<script src="admin.js"></script>
+</body>
+</html>
